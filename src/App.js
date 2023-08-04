@@ -58,7 +58,7 @@ function App() {
 
       <footer>
         <a
-          href="https://github.com/Roz18/ReactWeather"
+          href="https://github.com/Roz18/ReactWeather1"
           alt="github"
           target="blank"
         >
